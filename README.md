@@ -29,7 +29,7 @@
       padding: 14px 14px 14px 32px;
     }
     body{
-      background-image:url('img/syasin.png');
+      background-image:url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fjp.pinterest.com%2Fpin%2F833377106047221453%2F&psig=AOvVaw2SZk1Ggca5ysdRTsuPJhNZ&ust=1742693609776000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIjb0d7FnIwDFQAAAAAdAAAAABAE');
       background-position: top left;
       background-size: cover;
       background-repeat: repeat-x;
